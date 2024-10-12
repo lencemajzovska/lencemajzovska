@@ -1,7 +1,7 @@
 ## 💫 About Me:
 👩🏼‍🎓 Data Scientist student at [EC Utbildning](https://ecutbildning.se/utbildningar/data-scientist/) sharing my journey<br/><br>
 👩‍🏫 Currently focusing on developing my expertise in Python<br/><br>
-🛠️ This page is a work in progress, but it’s coming together...<br/>
+🛠️ This page is a work in progress...<br/>
 
 <br/>
 
