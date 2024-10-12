@@ -1,4 +1,5 @@
 ## 💫 About Me:
+## Hi, I'm Lence!
 👩🏼‍🎓 Data Scientist student at [EC Utbildning](https://ecutbildning.se/utbildningar/data-scientist/) sharing my journey<br/><br>
 👩‍🏫 Currently focusing on developing my expertise in Python<br/><br>
 🛠️ This page is a work in progress...<br/>
