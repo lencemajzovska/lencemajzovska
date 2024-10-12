@@ -1,8 +1,6 @@
 ## 💫 Lence Majzovska<br/>
 
-👩🏼‍🎓 Data Scientist student at [EC Utbildning](https://ecutbildning.se/utbildningar/data-scientist/) sharing my journey<br/>
-👩‍🏫 Currently focusing on developing my expertise in Python<br/>
-🛠️ This page is a work in progress...<br/>
+Sharing my journey and learnings as a Data Science student, currently focusing on Python programming and statistical analysis. I am actively developing my skills in data manipulation, machine learning, and visualization, along with building a professional portfolio to showcase my projects. Though my portfolio is still under construction, I am dedicated to continuous learning and excited to contribute to the field of data science.<br/>
 
 <br/>
 
