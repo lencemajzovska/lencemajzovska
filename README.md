@@ -1,6 +1,5 @@
 ### Hi there 👋, Lence  Majzovska
 #### Data Scientist student
-![Data Scientist student](https://images.unsplash.com/photo-1660616246653-e2c57d1077b9?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&dl=zach-graves-wtpTL_SzmhM-unsplash.jpg)
 
 Motivated data scientist student currently building foundational skills in Python, statistics, and data analysis. Eager to apply my learning in real-world scenarios, gain practical experience, and contribute to solving data-driven challenges.
 
