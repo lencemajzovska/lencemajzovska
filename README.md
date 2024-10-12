@@ -10,13 +10,11 @@ I'm a Data Scientist student sharing my journey, actively developing my skills i
 <br/>
 
 ## 📊 GitHub Stats
-
 ![](https://github-readme-stats.vercel.app/api?username=lencemajzovska&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 <br/>
 
 ## 🌐 Connect With Me
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lence-majzovska-9837702a7)
 
 
