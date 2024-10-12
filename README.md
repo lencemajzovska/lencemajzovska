@@ -2,7 +2,11 @@
 
 Aspiring data scientist sharing my journey while actively developing skills in data manipulation, machine learning, and visualization,<br/>
 along with building a professional portfolio to showcase my projects. As I continue to learn and grow, my portfolio will be updated<br/> 
-to highlight my achievements and skills. I'm excited to expand my knowledge and contribute to the field of data science.
+to highlight my achievements and skills. 
+
+<br/>
+
+I'm excited to expand my knowledge and contribute to the field of data science.
 
 <br/>
 
