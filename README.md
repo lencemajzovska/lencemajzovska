@@ -1,8 +1,11 @@
 ![Data Scientist student](https://github.com/lencemajzovska/lencemajzovska/blob/main/1678727160674.jpg)
 
-# Lence Majzovska
-Motivated data scientist student currently building foundational skills in Python, statistics, and data analysis. 
-Eager to apply my learning in real-world scenarios, gain practical experience, and contribute to solving data-driven challenges.
+# Hi, I'm Lence!
+
+💻 Aspiring Data Scientist sharing my learnings througout my journey. 
+👩🏼‍🎓 Currently studying a Data Scientist program at [EC Utbildning](https://ecutbildning.se/utbildningar/data-scientist/)
+
+
 
 ## Skills and experience
 * R
