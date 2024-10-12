@@ -15,7 +15,8 @@ Sharing my journey and learnings as a Data Science student, currently focusing o
 
 <br/>
 
-## 🤝 Connect With Me
+## 🛜 ![CatSphereGIF](https://github.com/user-attachments/assets/1abe8042-172c-4950-8aa4-3f73e233a0b9)
+ Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/lence-majzovska-9837702a7) 
 
