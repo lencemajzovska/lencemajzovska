@@ -1,4 +1,4 @@
-### 💫 Lence Majzovska
+### 💫 About me
 #
 
 Sharing my journey and learnings as a Data Science student, currently focusing on Python programming and statistical analysis. I am actively developing my skills in data manipulation, machine learning, and visualization, along with building a professional portfolio to showcase my projects. Though my portfolio is still under construction, I am dedicated to continuous learning and excited to contribute to the field of data science.<br/>
@@ -12,13 +12,15 @@ Sharing my journey and learnings as a Data Science student, currently focusing o
 
 <br/>
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
+#
 
 ![](https://github-readme-stats.vercel.app/api?username=lencemajzovska&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 <br/>
 
-## 🌐 Socials
+### 🌐 Socials
+#
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/lence-majzovska-9837702a7) 
 
