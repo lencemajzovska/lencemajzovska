@@ -15,7 +15,7 @@ Sharing my journey and learnings as a Data Science student, currently focusing o
 
 <br/>
 
-## 🌐 Socials
+## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/lence-majzovska-9837702a7) 
 
