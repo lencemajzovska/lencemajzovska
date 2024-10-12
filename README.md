@@ -1,15 +1,21 @@
-### Hi there 👋, Lence  Majzovska
-#### Data Scientist student
+![Data Scientist student](https://github.com/lencemajzovska/lencemajzovska/blob/main/1678727160674.jpg)
 
+### Hi there 👋, I'm Lence Majzovska
 Motivated data scientist student currently building foundational skills in Python, statistics, and data analysis. 
 Eager to apply my learning in real-world scenarios, gain practical experience, and contribute to solving data-driven challenges.
 
-![Data Scientist student](https://github.com/lencemajzovska/lencemajzovska/blob/main/1678727160674.jpg)
+## Skills and experience
+* ⚛️ R
+* 🐍 Python
+* 💻 SQL 
 
-Skills: PYTHON, SQL, R
+* Statistics & Math
+* Data Visualisation
+* Machine Learning & AI
+* Deep Learning
 
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning Data science 
+- 🛠️ I’m currently working on this page. 
+ 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lencemajzovska&show_icons=true&theme=transparent)
 
