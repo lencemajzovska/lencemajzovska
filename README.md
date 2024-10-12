@@ -3,7 +3,7 @@
 # Hi, I'm Lence!
 
 💻 Aspiring Data Scientist sharing my learnings througout my journey<br/>
-👩🏼‍🎓 Currently studying a [Data Scientist](https://ecutbildning.se/utbildningar/data-scientist/)program at EC Utbildning<br/>
+👩🏼‍🎓 Currently studying a [Data Scientist](https://ecutbildning.se/utbildningar/data-scientist/) program at EC Utbildning<br/>
 
 
 
