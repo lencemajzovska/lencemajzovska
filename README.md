@@ -21,8 +21,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/lence-majzovska-9837702a7) 
 
-
-
+## Exaples
+<img src="https://github.com/lencemajzovska/lencemajzovska/blob/main/giphy.webp" width="256" />
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
