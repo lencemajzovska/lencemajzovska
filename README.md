@@ -2,9 +2,9 @@
 
 <h3>💫 About Me</h3>
 
-👩🏼‍🎓 Data Scientist student at [EC Utbildning](https://ecutbildning.se/utbildningar/data-scientist/) sharing my journey
-👩‍🏫 Currently focusing on developing my expertise in Python
-🛠️ This page is a work in progress...
+👩🏼‍🎓 Data Scientist student at [EC Utbildning](https://ecutbildning.se/utbildningar/data-scientist/) sharing my journey<br/>
+👩‍🏫 Currently focusing on developing my expertise in Python<br/>
+🛠️ This page is a work in progress...<br/>
 
 <br/>
 
