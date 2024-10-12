@@ -2,9 +2,8 @@
 
 # Hi, I'm Lence!
 
-💻 Aspiring Data Scientist sharing my learnings througout my journey<br/>
-👩🏼‍🎓 Currently studying a [Data Scientist](https://ecutbildning.se/utbildningar/data-scientist/) program at EC Utbildning<br/>
-
+💻 Data Scientist student at [EC Utbildning](https://ecutbildning.se/utbildningar/data-scientist/) sharing my journey<br/>
+👩🏼‍🎓 Currently learning Python and Statistical Analysis<br/>
 
 
 ## Skills and experience
