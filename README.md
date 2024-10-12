@@ -1,6 +1,6 @@
 ## 💫 About Me
 
-I'm a Data Scientist student sharing my journey while actively developing my skills in data manipulation, machine learning, and visualization, along with building a professional portfolio to showcase my projects. As I continue to learn and grow, my portfolio will be updated to highlight my achievements and skills. I am dedicated to continuous learning and excited to contribute to the field of data science.
+I'm a Data Scientist student sharing my journey while actively developing my skills in data manipulation, machine learning, and visualization, along with building a professional portfolio to showcase my projects. As I continue to learn and grow, my portfolio will be updated to highlight my achievements and skills. I am thrilled to gain new insights and make meaningful contributions to the field of data science.
 
 <br/>
 
