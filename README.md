@@ -1,5 +1,4 @@
 ### 💫 Lence Majzovska<br/>
-
 #
 
 Sharing my journey and learnings as a Data Science student, currently focusing on Python programming and statistical analysis. I am actively developing my skills in data manipulation, machine learning, and visualization, along with building a professional portfolio to showcase my projects. Though my portfolio is still under construction, I am dedicated to continuous learning and excited to contribute to the field of data science.<br/>
