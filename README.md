@@ -6,20 +6,17 @@
 👩🏼‍🎓 Currently learning Python and Statistical Analysis<br/>
 
 
-## Skills and experience
+# Skills and experience
 * R
 * Python
-* SQL 
-  ######
+* SQL<br/>
+
 * Statistics & Math
 * Data Visualisation
 * Machine Learning & AI
-* Deep Learning
-######
+* Deep Learning<br/>
  
-🛠️ I’m currently working on this page.
-
-######
+🛠️ I’m currently working on this page<br/>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/lencemajzovska)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/lence-majzovska-9837702a7/)  
 
