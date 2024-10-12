@@ -1,6 +1,6 @@
 ## 💫 About Me
 
-I'm a Data Scientist student sharing my journey, currently focusing on Python programming and statistical analysis. Actively developing my skills in data manipulation, machine learning, and visualization, along with building a professional portfolio to showcase my projects. Though my portfolio is still under construction, I am dedicated to continuous learning and excited to contribute to the field of data science.<br/>
+I'm a Data Scientist student sharing my journey, actively developing my skills in data manipulation, machine learning, and visualization, along with building a professional portfolio to showcase my projects. Though my portfolio is still under construction, I am dedicated to continuous learning and excited to contribute to the field of data science.<br/>
 
 <br/>
 
