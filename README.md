@@ -3,7 +3,6 @@
 
 Sharing my journey and learnings as a Data Science student, currently focusing on Python programming and statistical analysis. I am actively developing my skills in data manipulation, machine learning, and visualization, along with building a professional portfolio to showcase my projects. Though my portfolio is still under construction, I am dedicated to continuous learning and excited to contribute to the field of data science.<br/>
 
-
 ---
 <br/>
 
@@ -23,7 +22,6 @@ Sharing my journey and learnings as a Data Science student, currently focusing o
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/lence-majzovska-9837702a7) 
 
-<img src="https://github.com/lencemajzovska/lencemajzovska/blob/main/giphy.webp" width="256" />
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
