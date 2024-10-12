@@ -2,7 +2,7 @@
 
 ## 👋Hi, I'm Lence!
 👩🏼‍🎓 Data Scientist student at [EC Utbildning](https://ecutbildning.se/utbildningar/data-scientist/) sharing my journey<br/>
-👩‍🏫 I’m currently focused on learning Python and statistical analysis with a professional development approach<br/>
+👩‍🏫 I’m currently focused on learning Python and statistical analysis<br/>
 🛠️ This page is a work in progress, but it’s coming together<br/>
 
 ### 💻 Tech Stack:
