@@ -4,6 +4,7 @@
 
 💻 Data Scientist student at [EC Utbildning](https://ecutbildning.se/utbildningar/data-scientist/) sharing my journey<br/>
 👩🏼‍🎓 Currently learning Python and Statistical Analysis<br/>
+🛠️ Working on this page<br/>
 
 
 
@@ -22,7 +23,6 @@
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lencemajzovska&show_icons=true&theme=transparent)
 
-🛠️ I’m currently working on this page
 
 
 
