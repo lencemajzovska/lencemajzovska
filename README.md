@@ -6,7 +6,7 @@
 👩🏼‍🎓 Currently learning Python and Statistical Analysis<br/>
 
 
-# Skills and experience
+#### Skills and experience
 * R
 * Python
 * SQL<br/>
