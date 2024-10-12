@@ -1,6 +1,6 @@
 ![Data Scientist student](https://github.com/lencemajzovska/lencemajzovska/blob/main/1678727160674.jpg)
 
-# Hi, I'm Lence!
+### Hi, I'm Lence!
 
 💻 Data Scientist student at [EC Utbildning](https://ecutbildning.se/utbildningar/data-scientist/) sharing my journey<br/>
 👩🏼‍🎓 Currently learning Python and Statistical Analysis<br/>
