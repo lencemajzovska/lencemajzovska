@@ -14,14 +14,14 @@ Eager to apply my learning in real-world scenarios, gain practical experience, a
 * Machine Learning & AI
 * Deep Learning
 
-- 🛠️ I’m currently working on this page. 
+ 
  
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lencemajzovska&show_icons=true&theme=transparent)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/lencemajzovska)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/lence-majzovska-9837702a7/)  
 
-
+- 🛠️ I’m currently working on this page.
 
 
 
