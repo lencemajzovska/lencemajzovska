@@ -24,11 +24,11 @@ This portfolio highlights my practical work, technical growth, and learning jour
 
 ### Projects
 
-- **[Digit Classification with Machine Learning](https://github.com/lencemajzovska/digit-classification-mnist)**  
-  Handwritten digit classification using MNIST dataset. Comparison of multiple models with hyperparameter tuning and deployment via Streamlit app.
-
 - **[AI Chatbot Viola (RAG & Gemini)](https://github.com/lencemajzovska/ai-chatbot-viola)**  
-  AI-powered chatbot for Swedish social insurance (Försäkringskassan) built with Retrieval-Augmented Generation and Google Gemini API.
+  AI-powered chatbot built with Retrieval-Augmented Generation and Google Gemini.
+
+- **[Digit Classification with Machine Learning](https://github.com/lencemajzovska/digit-classification-mnist)**  
+  Handwritten digit classification using MNIST dataset. 
 
 - **[Power BI Sales Dashboard](https://github.com/lencemajzovska/powerbi-data-visualization-)**  
   Interactive sales dashboard project built in Power BI using star schema, DAX, and advanced visualizations.
