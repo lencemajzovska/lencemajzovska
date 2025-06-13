@@ -36,7 +36,7 @@ I'm currently completing my Data Science education and building a professional p
 - **[Power BI Sales Dashboard](https://github.com/lencemajzovska/powerbi-data-visualization-)**  
   Interactive sales dashboard project built in Power BI using star schema, DAX, and advanced visualizations.
 
-  ---
+---
 
 ### Connect With Me
 
