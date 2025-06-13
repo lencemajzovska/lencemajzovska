@@ -22,8 +22,6 @@ href="https://www.linkedin.com/in/clayton-j-hamilton" target="_blank"><img alt="
 src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=blue" /></a> <a 
 href="https://medium.com/@clayton-hamilton" target="_blank"><img alt="Medium" 
 src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a><br><a 
-href="https://stackoverflow.com/users/14122375/hamiltonpharmd" target="_blank"><img alt="StackOverflow" 
-src="https://stackoverflow-badge.onrender.com/api/StackOverflowBadge/14122375" /></a> 
 </p>
 
 
