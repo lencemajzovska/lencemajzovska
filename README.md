@@ -1,4 +1,4 @@
-### Hi, there! 
+### About Me
 Aspiring data scientist on a continuous learning journey, actively developing skills in data analysis, machine learning, visualization, and AI. My portfolio includes both machine learning projects and AI-powered applications, combining classical models with modern generative AI approaches.
 
 I'm currently completing my Data Science education and building a professional portfolio to highlight my skills and growth.
