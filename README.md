@@ -35,7 +35,6 @@ This portfolio highlights my practical work, technical growth, and learning jour
 - **[Power BI Sales Dashboard](https://github.com/lencemajzovska/powerbi-data-visualization-)**  
   Interactive sales dashboard project built in Power BI using star schema, DAX, and advanced visualizations.
 
----
 
 
 
