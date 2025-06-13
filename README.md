@@ -1,5 +1,7 @@
 ### Hi, there! 
-Welcome to my portfolio repository showcasing selected projects from my Data Science studies and personal learning journey. This repository highlights practical applications of machine learning, data analytics, visualization, and AI chatbot development.
+Aspiring data scientist on a continuous learning journey, actively developing skills in data analysis, machine learning, visualization, and AI. My portfolio includes both machine learning projects and AI-powered applications, combining classical models with modern generative AI approaches.
+
+I'm currently completing my Data Science education and building a professional portfolio to highlight my skills and growth.
 
 ---
 
