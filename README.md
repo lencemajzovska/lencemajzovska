@@ -1,5 +1,5 @@
 ### About Me
-I am currently completing my data science studies while developing portfolio projects that apply machine learning, AI, and data visualization to real-world data challenges.  
+I am currently completing my data science studies while developing portfolio projects that apply machine learning, AI, and data visualization to real-world data challenges. 
 This portfolio highlights my practical work, technical growth, and learning journey.
 
 ---
