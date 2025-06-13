@@ -1,4 +1,4 @@
-# Lence Majzovska - Data Science Portfolio
+# Data Science Student
 
 Welcome to my portfolio repository showcasing selected projects from my Data Science studies and personal learning journey. This repository highlights practical applications of machine learning, data analytics, visualization, and AI chatbot development.
 
