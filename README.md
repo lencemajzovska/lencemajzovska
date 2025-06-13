@@ -20,8 +20,6 @@ This portfolio highlights my practical work, technical growth, and learning jour
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-
-
 ---
 
 ### Projects
@@ -35,6 +33,15 @@ This portfolio highlights my practical work, technical growth, and learning jour
 - **[Power BI Sales Dashboard](https://github.com/lencemajzovska/powerbi-data-visualization-)**  
   Interactive sales dashboard project built in Power BI using star schema, DAX, and advanced visualizations.
 
+
+---
+
+### Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lence-majzovska-9837702a7/)
+
+
+---
 
 
 
