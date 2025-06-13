@@ -1,5 +1,5 @@
 ### About Me
-I am a data science student completing my studies while developing projects that explore real-world data challenges and AI applications.  
+I am currently completing my data science studies while developing projects that explore real-world data challenges and AI applications.  
 This portfolio highlights my ongoing work and learning journey.
 
 ---
