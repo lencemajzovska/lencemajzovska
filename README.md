@@ -25,8 +25,6 @@ Welcome to my portfolio repository showcasing selected projects from my Data Sci
 
 ---
 
-*This portfolio will be continuously updated as I grow my skills and complete new projects.*
-
 
 
 
