@@ -25,7 +25,7 @@ I'm currently completing my Data Science education and building a professional p
 
 ---
 
-## 📊 Portfolio Projects
+### Projects
 
 - **[Digit Classification with Machine Learning](https://github.com/lencemajzovska/digit-classification-mnist)**  
   Handwritten digit classification using MNIST dataset. Comparison of multiple models with hyperparameter tuning and deployment via Streamlit app.
