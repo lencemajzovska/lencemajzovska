@@ -25,22 +25,7 @@ Welcome to my portfolio repository showcasing selected projects from my Data Sci
 
 ---
 
-<div class="header__text-box row">
-    <div class="header__text">
-        <h1 class="heading-primary">
-        <!-- Lence Majzovska -->
-        <span>Syed Ali Hussnain</span>
-        </h1>
-        <!-- Welcome to my portfolio repository showcasing selected projects from my Data Science studies and personal learning journey. This repository highlights practical applications of machine learning, data analytics, visualization, and AI chatbot development. -->
-        <p>A Web Developer based in Lahore, Pakistan.</p>
-        <a href="#contact" class="btn btn--pink">Get in touch</a>
-    </div>
-</div>
 
-
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 
