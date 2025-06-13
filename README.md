@@ -1,26 +1,26 @@
-# 👩‍💻 Lence Majzovska - Data Science Portfolio
+# Lence Majzovska - Data Science Portfolio
 
 Welcome to my portfolio repository showcasing selected projects from my Data Science studies and personal learning journey. This repository highlights practical applications of machine learning, data analytics, visualization, and AI chatbot development.
 
 ---
 
-## 📊 Featured Projects
+## Featured Projects
 
-### 🔢 Digit Classification with Machine Learning  
+### Digit Classification with Machine Learning  
 Built a Streamlit application for classifying handwritten digits using the MNIST dataset. Models tested include Logistic Regression, Random Forest, and Extra Trees (selected as best-performing).  
 [View Repository](https://github.com/[DIN-LÄNK-TILL-PROJEKTET])
 
-### 🤖 AI Chatbot - Retrieval-Augmented Generation  
+### AI Chatbot - Retrieval-Augmented Generation  
 Developed an AI chatbot for answering questions about Swedish social insurance using RAG (Retrieval-Augmented Generation) with Google Gemini and Streamlit.  
 [View Repository](https://github.com/[DIN-LÄNK-TILL-PROJEKTET])
 
-### 📈 Power BI Sales Dashboard  
+### Power BI Sales Dashboard  
 Designed an interactive Power BI sales dashboard based on fictional company data (Köksglädje) to analyze sales performance across products, stores, and time.  
 [View Repository](https://github.com/[DIN-LÄNK-TILL-PROJEKTET])
 
 ---
 
-## 🛠 Languages and Tools
+## Languages and Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
