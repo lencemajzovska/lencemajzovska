@@ -19,7 +19,7 @@ Welcome to my portfolio repository showcasing selected projects from my Data Sci
 
 ---
 
-## 📫 Connect With Me
+## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lencemajzovska)
 
