@@ -2,7 +2,7 @@ Welcome to my portfolio repository showcasing selected projects from my Data Sci
 
 ---
 
-## Languages and Tools
+### Languages and Tools
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
@@ -21,7 +21,7 @@ Welcome to my portfolio repository showcasing selected projects from my Data Sci
 
 ---
 
-## 🌐 Connect With Me
+### Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lence-majzovska-9837702a7/)
 
