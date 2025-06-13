@@ -14,6 +14,18 @@ Welcome to my portfolio repository showcasing selected projects from my Data Sci
 <a target="_blank"><img alt="Git" src="https://img.shields.io/badge/Git-%2312100E.svg?logo=git&style=for-the-badge"/></a> 
 <a target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-black?logo=GitHub&style=for-the-badge"/></a> 
 
+<h3 align="center">Find me on</h3>
+<p align="center"><a 
+href="https://github.com/claytonjhamilton" target="_blank"><img alt="Github" 
+src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a 
+href="https://www.linkedin.com/in/clayton-j-hamilton" target="_blank"><img alt="LinkedIn" 
+src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=blue" /></a> <a 
+href="https://medium.com/@clayton-hamilton" target="_blank"><img alt="Medium" 
+src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a><br><a 
+href="https://stackoverflow.com/users/14122375/hamiltonpharmd" target="_blank"><img alt="StackOverflow" 
+src="https://stackoverflow-badge.onrender.com/api/StackOverflowBadge/14122375" /></a> 
+</p>
+
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
