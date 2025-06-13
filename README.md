@@ -1,17 +1,48 @@
-## 💫 About Me
+# 👩‍💻 Lence Majzovska - Data Science Portfolio
 
-Aspiring data scientist sharing my journey while actively developing skills in data manipulation, machine learning and visualization, along with building a professional portfolio to showcase my projects. As I continue to learn and grow, my portfolio will be updated to highlight my achievements and skills. I'm excited to expand my knowledge and contribute to the field of data science.
+Welcome to my portfolio repository showcasing selected projects from my Data Science studies and personal learning journey. This repository highlights practical applications of machine learning, data analytics, visualization, and AI chatbot development.
 
-<br>
+---
 
-## 🛠️ Languages and Tools
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
- ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+## 📊 Featured Projects
 
-<br/>
+### 🔢 Digit Classification with Machine Learning  
+Built a Streamlit application for classifying handwritten digits using the MNIST dataset. Models tested include Logistic Regression, Random Forest, and Extra Trees (selected as best-performing).  
+[View Repository](https://github.com/[DIN-LÄNK-TILL-PROJEKTET])
 
-## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lence-majzovska-9837702a7)
+### 🤖 AI Chatbot - Retrieval-Augmented Generation  
+Developed an AI chatbot for answering questions about Swedish social insurance using RAG (Retrieval-Augmented Generation) with Google Gemini and Streamlit.  
+[View Repository](https://github.com/[DIN-LÄNK-TILL-PROJEKTET])
+
+### 📈 Power BI Sales Dashboard  
+Designed an interactive Power BI sales dashboard based on fictional company data (Köksglädje) to analyze sales performance across products, stores, and time.  
+[View Repository](https://github.com/[DIN-LÄNK-TILL-PROJEKTET])
+
+---
+
+## 🛠 Languages and Tools
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=flat-square&logo=matplotlib&logoColor=black)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
+
+---
+
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lencemajzovska)
+
+---
+
+*This portfolio will be continuously updated as I grow my skills and complete new projects.*
+
 
 
 
