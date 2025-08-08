@@ -42,9 +42,7 @@ This portfolio highlights my practical work, technical growth, and learning jour
 ### Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lence-majzovska-9837702a7/)
-![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]
-(https://wa.me/46762049969)
-
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/46762049969)
 
 ---
 
