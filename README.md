@@ -36,7 +36,7 @@ This portfolio highlights my practical work, technical growth, and learning jour
   Interactive sales dashboard project built in Power BI using star schema, DAX, and advanced visualizations.
 
 - **[SQL AdventureWorks2022 Analysis](https://github.com/lencemajzovska/sql-adventureworks2022)**  
-  Data analysis and visualization of the AdventureWorks2022 database using SQL and Python (SQLAlchemy, Pandas, Seaborn).
+  Data analysis and visualization of the AdventureWorks2022 database using SQL and Python.
 
 ---
 
