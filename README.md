@@ -26,11 +26,8 @@ This portfolio highlights my practical work, technical growth, and learning jour
 
 ### Projects
 
-- **[AI Chatbot Viola (RAG & Gemini)](https://github.com/lencemajzovska/ai-chatbot-viola)**  
-  AI-powered chatbot built with Retrieval-Augmented Generation and Google Gemini.
-
-- **[Digit Classification with Machine Learning](https://github.com/lencemajzovska/digit-classification-mnist)**  
-  Handwritten digit classification using MNIST dataset. 
+- **[SQL Analysis](https://github.com/lencemajzovska/sql-adventureworks2022)**  
+  Data analysis and visualization of the AdventureWorks2022 database using SQL and Python.
 
 - **[Power BI Sales Dashboard](https://github.com/lencemajzovska/powerbi-data-visualization-)**  
   Interactive sales dashboard project built in Power BI using star schema, DAX, and advanced visualizations.
@@ -38,8 +35,19 @@ This portfolio highlights my practical work, technical growth, and learning jour
 - **[Power BI AdventureWorks Dashboard](https://github.com/lencemajzovska/powerbi-adventureworks-dashboard)**  
   Power BI dashboard analyzing sales data with interactive features.
 
-- **[SQL Analysis](https://github.com/lencemajzovska/sql-adventureworks2022)**  
-  Data analysis and visualization of the AdventureWorks2022 database using SQL and Python.
+- **[Digit Classification with Machine Learning](https://github.com/lencemajzovska/digit-classification-mnist)**  
+  Handwritten digit classification using MNIST dataset.
+
+- **[AI Chatbot Viola (RAG & Gemini)](https://github.com/lencemajzovska/ai-chatbot-viola)**  
+  AI-powered chatbot built with Retrieval-Augmented Generation and Google Gemini.
+
+ 
+
+
+
+
+
+
 
 ---
 
