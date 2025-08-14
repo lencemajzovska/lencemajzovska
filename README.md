@@ -35,7 +35,7 @@ This portfolio highlights my practical work, technical growth, and learning jour
 - **[Power BI Sales Dashboard](https://github.com/lencemajzovska/powerbi-data-visualization-)**  
   Interactive sales dashboard project built in Power BI using star schema, DAX, and advanced visualizations.
 
-- **[Power AdventureWorks Dashboard](https://github.com/lencemajzovska/powerbi-adventureworks-dashboard)**  
+- **[Power BI AdventureWorks Dashboard](https://github.com/lencemajzovska/powerbi-adventureworks-dashboard)**  
   Power BI dashboard analyzing sales data with interactive features.
 
 - **[SQL Analysis](https://github.com/lencemajzovska/sql-adventureworks2022)**  
