@@ -1,6 +1,14 @@
-### About Me
+### Hi, I'm Lence 
 I am currently completing my data science studies while developing portfolio projects that apply machine learning, AI, and data visualization to real-world data challenges. 
 This portfolio highlights my practical work, technical growth, and learning journey.
+
+---
+
+### 🔹 Focus Areas
+- SQL & Database Analysis  
+- Business Intelligence & Advanced Power BI Dashboards  
+- Predictive Modeling & Machine Learning  
+- Natural Language Processing (RAG, LLMs, Chatbots)
 
 ---
 
