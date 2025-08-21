@@ -40,7 +40,7 @@ This portfolio highlights my practical work, technical growth and continuous lea
   Data analysis and visualization of the AdventureWorks2022 database using SQL and Python.
 
 - **[Power BI Dashboard](https://github.com/lencemajzovska/powerbi-adventureworks-dashboard)**  
-  Interactive sales dashboard built in Power BI using the AdventureWorks2022 dataset with advanced features and custom visualizations.  
+  Interactive sales dashboard built in Power BI using the AdventureWorks2022 dataset with advanced features.  
 
 - **[Digit Classification](https://github.com/lencemajzovska/digit-classification-mnist)**  
   Machine learning model trained on the MNIST dataset to classify handwritten digits using Python and scikit-learn.  
