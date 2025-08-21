@@ -7,10 +7,11 @@ This portfolio highlights my practical work, technical growth and continuous lea
 ---
 
 ### 🔹 Focus Areas
-- SQL & Database Analysis  
+- SQL & Database Management  
 - Business Intelligence & Advanced Power BI Dashboards  
 - Predictive Modeling & Machine Learning  
-- Natural Language Processing (RAG, LLMs, Chatbots)
+- Natural Language Processing (RAG, LLMs, Chatbots)  
+
 
 ---
 
