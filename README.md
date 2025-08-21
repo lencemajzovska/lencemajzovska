@@ -48,9 +48,6 @@ This portfolio highlights my practical work, technical growth and continuous lea
 
 - **[AI Chatbot Viola (RAG & Gemini)](https://github.com/lencemajzovska/ai-chatbot-viola)**  
   AI-powered chatbot built with Retrieval-Augmented Generation and Google Gemini.
-![Chatbot Demo](https://raw.githubusercontent.com/lencemajzovska/ai-chatbot-viola/main/demo.gif)
-
-
 
 ---
 
