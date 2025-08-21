@@ -40,13 +40,13 @@ This portfolio highlights my practical work, technical growth and continuous lea
 - **[SQL Analysis](https://github.com/lencemajzovska/sql-adventureworks2022)**  
   Data analysis and visualization of the AdventureWorks2022 database using SQL and Python.
 
-- **[Power BI AdventureWorks Dashboard](https://github.com/lencemajzovska/powerbi-adventureworks-dashboard)**  
-  Power BI dashboard analyzing sales data with interactive features.
+- **[Power BI Dashboard](https://github.com/lencemajzovska/powerbi-adventureworks-dashboard)**  
+  Interactive sales dashboard built in Power BI using the AdventureWorks2022 dataset with advanced features and custom visualizations.  
 
-- **[Digit Classification with Machine Learning](https://github.com/lencemajzovska/digit-classification-mnist)**  
-  Handwritten digit classification using MNIST dataset.
+- **[Digit Classification](https://github.com/lencemajzovska/digit-classification-mnist)**  
+  Machine learning model trained on the MNIST dataset to classify handwritten digits with scikit-learn.  
 
-- **[AI Chatbot Viola (RAG & Gemini)](https://github.com/lencemajzovska/ai-chatbot-viola)**  
+- **[AI Chatbot Viola](https://github.com/lencemajzovska/ai-chatbot-viola)**  
   AI-powered chatbot built with Retrieval-Augmented Generation and Google Gemini.
 
 ---
