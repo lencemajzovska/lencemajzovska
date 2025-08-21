@@ -24,7 +24,7 @@ This portfolio highlights my practical work, technical growth, and learning jour
 
 ---
 
-### Projects
+### Featured Projects
 
 - **[SQL Analysis](https://github.com/lencemajzovska/sql-adventureworks2022)**  
   Data analysis and visualization of the AdventureWorks2022 database using SQL and Python.
