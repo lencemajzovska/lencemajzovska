@@ -1,5 +1,5 @@
 ### 👋 Hi, I'm Lence 
-Data Scientist Student @ EC Utbildning, Malmö
+Data Science Student @ EC Utbildning, Malmö
 
 I am currently completing my data science studies while developing portfolio projects in machine learning, AI, and data visualization. 
 This portfolio highlights my practical work, technical growth and continuous learning journey.
@@ -10,7 +10,7 @@ This portfolio highlights my practical work, technical growth and continuous lea
 - Managing and analyzing data with SQL  
 - Developing insights with Business Intelligence & Advanced Power BI  
 - Building predictive models with Machine Learning  
-- Creating AI solutions with Natural Language Processing (RAG, LLMs, Chatbots)  
+- Creating AI solutions with Natural Language Processing (LLMs, RA, Chatbots)  
 
 ---
 
@@ -43,10 +43,10 @@ This portfolio highlights my practical work, technical growth and continuous lea
   Interactive sales dashboard built in Power BI using the AdventureWorks2022 dataset with advanced features and custom visualizations.  
 
 - **[Digit Classification](https://github.com/lencemajzovska/digit-classification-mnist)**  
-  Machine learning model trained on the MNIST dataset to classify handwritten digits with scikit-learn.  
+  Machine learning model trained on the MNIST dataset to classify handwritten digits using Python and scikit-learn.  
 
 - **[AI Chatbot Viola](https://github.com/lencemajzovska/ai-chatbot-viola)**  
-  AI-powered chatbot built with Retrieval-Augmented Generation and Google Gemini.
+  AI-powered chatbot built with Retrieval-Augmented Generation and Google Gemini, deployed as a Streamlit app.
 
 ---
 
