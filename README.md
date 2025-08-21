@@ -42,7 +42,7 @@ This portfolio highlights my practical work, technical growth and continuous lea
   Interactive sales dashboard built in Power BI using the AdventureWorks2022 dataset with advanced features.  
 
 - **[Digit Classification](https://github.com/lencemajzovska/digit-classification-mnist)**  
-  Machine learning model trained on the MNIST dataset to classify handwritten digits using Python and scikit-learn.  
+  Machine learning model trained on the MNIST dataset to classify handwritten digits using Python and Scikit-learn.  
 
 - **[AI Chatbot Viola](https://github.com/lencemajzovska/ai-chatbot-viola)**  
   AI-powered chatbot built with Retrieval-Augmented Generation and Google Gemini, deployed as a Streamlit app.
