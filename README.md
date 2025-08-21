@@ -1,4 +1,4 @@
-### Hi, I'm Lence 
+### 👋 Hi, I'm Lence 
 I am currently completing my data science studies while developing portfolio projects that apply machine learning, AI, and data visualization to real-world data challenges. 
 This portfolio highlights my practical work, technical growth, and learning journey.
 
@@ -12,7 +12,7 @@ This portfolio highlights my practical work, technical growth, and learning jour
 
 ---
 
-### Languages and Tools
+### 🔹 Languages and Tools
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
@@ -32,7 +32,7 @@ This portfolio highlights my practical work, technical growth, and learning jour
 
 ---
 
-### Featured Projects
+### 🔹 Featured Projects
 
 - **[SQL Analysis](https://github.com/lencemajzovska/sql-adventureworks2022)**  
   Data analysis and visualization of the AdventureWorks2022 database using SQL and Python.
@@ -56,9 +56,9 @@ This portfolio highlights my practical work, technical growth, and learning jour
 
 ---
 
-### Connect With Me
+### 🔹 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lence-majzovska-9837702a7/)
+💼 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lence-majzovska-9837702a7/)
 
 ---
 
