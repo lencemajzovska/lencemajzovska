@@ -38,9 +38,6 @@ This portfolio highlights my practical work, technical growth, and learning jour
 - **[Digit Classification with Machine Learning](https://github.com/lencemajzovska/digit-classification-mnist)**  
   Handwritten digit classification using MNIST dataset.
 
-- **[Volvo Regression Analysis](https://github.com/lencemajzovska/volvo-regression-analysis)**  
- Analysis of Volvo car prices using a regression model in R, based on Blocket data.  
-
 - **[AI Chatbot Viola (RAG & Gemini)](https://github.com/lencemajzovska/ai-chatbot-viola)**  
   AI-powered chatbot built with Retrieval-Augmented Generation and Google Gemini.
 
