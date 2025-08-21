@@ -7,11 +7,10 @@ This portfolio highlights my practical work, technical growth and continuous lea
 ---
 
 ### 🔹 Focus Areas
-- SQL & Database Management  
-- Business Intelligence & Advanced Power BI Dashboards  
-- Predictive Modeling & Machine Learning  
-- Natural Language Processing (RAG, LLMs, Chatbots)  
-
+- Managing and analyzing data with SQL  
+- Developing insights with Business Intelligence & Advanced Power BI  
+- Building predictive models with Machine Learning  
+- Creating AI solutions with Natural Language Processing (RAG, LLMs, Chatbots)  
 
 ---
 
@@ -54,7 +53,6 @@ This portfolio highlights my practical work, technical growth and continuous lea
 ### 🔹 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lence-majzovska-9837702a7/)
-
 
 ---
 
