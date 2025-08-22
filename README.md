@@ -1,7 +1,6 @@
 ### 👋 Hi, I'm Lence 
 
-I am currently completing my data science studies while developing portfolio projects in machine learning, AI, and data visualization. <br>
-This portfolio highlights my practical work, technical growth and continuous learning journey.
+I am currently completing my data science studies while developing portfolio projects in machine learning, AI, and data visualization. This portfolio highlights my practical work, technical growth and continuous learning journey.
 
 ---
 
